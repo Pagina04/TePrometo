@@ -1,0 +1,37 @@
+body {
+    background-image: url(amor.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.Contenedor{
+    text-align: center;
+}
+
+p{
+    font-size: 40px;
+    padding: 7%; 
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button {
+    font-size: xx-large;
+    padding: 0.75em;
+    background-color: #483D8B;
+    color: #fff;
+    padding: 17px 35px;
+    font-size: 18px;
+    border-color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#yesbtn{
+    transform: translate(-100%,0);
+
+}
+
+#nobtn{
+    position: absolute;
+}
